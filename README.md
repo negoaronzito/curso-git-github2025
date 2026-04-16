@@ -6,3 +6,8 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 Segue o link
 Curso Git e GitHub
+
+Além das aulas no youtube,
+acompanhe a programação das redes sociais do Teo.
+
+Atualizações deste curso serão realizadas em 2026.
